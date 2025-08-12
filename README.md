@@ -48,7 +48,7 @@ The app displays playing cards that change automatically every 0.1 seconds. User
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CardWorkout.git
+git clone https://github.com/devdiop221/card-workout-app.git
 ```
 
 2. Open the project in Xcode:
